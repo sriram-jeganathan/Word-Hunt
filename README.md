@@ -42,8 +42,4 @@ Welcome to **Word Hunt**, a fast-paced word guessing game inspired by the classi
 ## 🚀 Why This Project?
 This project was built to strengthen core C++ fundamentals while creating something interactive and fun. It serves as a solid foundation for building more complex games or applications in the future.
 
----
 
-## 🎉 Try It Out
-Clone the repository, compile the code, and start guessing.  
-Let’s see if your vocabulary survives.
